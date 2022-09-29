@@ -11,7 +11,7 @@ Check my linkedin page: www.linkedin.com/in/jenni-kontturi
 ## Skills & Tools
 
 ### Test design and documentation
-- Can write tests on Cucumber
+- Can write [tests on Cucumber](https://github.com/JenKon1/portfolio-testing/blob/main/example_work/features.txt)
 - Can write clear bug reports using Jira
 
 ### Manual testing
@@ -25,8 +25,8 @@ Check my linkedin page: www.linkedin.com/in/jenni-kontturi
 
 ### Exploratory testing
 - Can plan, manage and report ET sessions
-- can use Exploratory Testing Chrome Extension to take notes
-- Also, example of ET session notes on Excel
+- Can use Exploratory Testing Chrome Extension to take notes
+- Check [example work](https://github.com/JenKon1/portfolio-testing/tree/main/example_work))
 
 ### API testing
 - [Simple tests](https://github.com/JenKon1/fullstack_palautukset/tree/main/osa4/blogilista/requests) using REST client
