@@ -1,0 +1,55 @@
+User story 1: Adding a product 
+As a customer I want to order a product and add it to the shopping cart one by one 
+
+Feature: Adding a product
+Adding a product to shopping cart
+
+Scenario: Adding a product
+ Given user adds a product to the shopping cart
+ When product is added
+ Then it is shown in the cart
+
+
+User story 2: Adding a product in more quantities 
+As a customer I want to order a product in multiple quantities and add those to the shopping cart
+
+Feature: Adding multiple products at once
+ Adding multiple products to shopping cart
+
+Scenario: Adding multiple products
+ Given user adds products to shopping cart
+ When product is added
+ Then it is shown in the cart 
+
+User story 3: Query of the shopping cart 
+As a customer I want to see a listing/content of the shopping cart I am about to buy 
+
+Feature: Viewing shopping cart content
+ When user opens shopping cart, it should show the content of the shopping cart.
+
+Scenario: 
+ Given user opens shopping cart
+ When there are products in the shopping cart
+ Then it should show a list of the items
+
+User story 4: Changing the amount of a product 
+As a customer want to change the amount of a product in the shopping cart
+
+Feature: changing amounts in the shopping cart
+ When user has shopping cart open, user can change the amounts of items.
+
+Scenario: 
+ Given user has shopping cart open
+ When user changes the amount of an item to 2
+ Then shopping cart should show 2 of that item
+
+User story 5: Removing a product 
+As a customer I want to remove a product from the shopping cart
+
+Feature: Removing a product 
+ When user has shopping cart open, user can remove an item.
+
+Scenario: 
+ Given user has shopping cart open
+ When user removes item by clicking the trash can icon
+ Then shopping cart should show one item less
