@@ -26,7 +26,7 @@ Check my linkedin page: www.linkedin.com/in/jenni-kontturi
 ### Exploratory testing
 - Can plan, manage and report ET sessions
 - Can use Exploratory Testing Chrome Extension to take notes
-- Check [example work](https://github.com/JenKon1/portfolio-testing/tree/main/example_work))
+- Check [example work](https://github.com/JenKon1/portfolio-testing/tree/main/example_work)
 
 ### API testing
 - [Simple tests](https://github.com/JenKon1/fullstack_palautukset/tree/main/osa4/blogilista/requests) using REST client
